@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019631449026",
+    "project_id": "movie-chat-1f9ff",
+    "storage_bucket": "movie-chat-1f9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019631449026:android:56158efcc8bbcbee6b5c5b",
+        "android_client_info": {
+          "package_name": "com.example.movie_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAEk1ijer1wBBixGHdpoRlOZtpodcjbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
