@@ -91,7 +91,7 @@ class MessagesAdapter():RecyclerView.Adapter<RecyclerView.ViewHolder>(){
     }
 
     fun appendmessages(newmessages: MutableList<Message>) {
-        messageitems.addAll(messageitems)
+        messageitems.addAll(newmessages)
 //        notifyDataSetChanged()
         notifyItemRangeChanged(messageitems.size+1, newmessages.size) // size el old list w sizw new list : used to refresh adapter using new range
 
